@@ -1,0 +1,2 @@
+# freemarker
+使用freemarker模版引擎自动生成java项目源代码
